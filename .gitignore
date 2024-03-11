@@ -341,3 +341,4 @@ healthchecksdb
 
 # XCode User data
 **/xcuserdata
+.DS_Store
